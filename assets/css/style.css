@@ -45,7 +45,7 @@ display: inline-block;
 }
 #container {
     width: 960px;
-    margin: 40px auto;
+    margin: 30px auto;
     background-color: #ffffff;
     padding: 20px;
     box-sizing: border-box;
@@ -62,9 +62,8 @@ display: inline-block;
     margin-bottom: 20px;
 }
 #content {
-    border-top: 1px solid #dddddd;
+    border-top: 3px solid #dddddd;
     padding-top: 30px;
-   
 
 }
 .profile-img {
@@ -80,11 +79,20 @@ display: inline-block;
     margin: 0;
     color: #dddddd;
     font-size: 12px;
-    border-top: 6px solid #4aaaa5;
-    padding:20px;
+    border-top: 8px solid #4aaaa5;
+    padding:10px;
     position:fixed;
     bottom: 0px;
     left: 0px;
     width: 100%;
 
 }
+.button {
+    background-color:#4aaaa5;
+    color:white;
+    padding:10px;
+    width: 80px;
+}
+/* Footer text: How to get it to stick to the bottom of the footer */
+/* How to get the paragraph to align with the image top */
+/* How to get the text boxes length to match the width */
