@@ -51,7 +51,7 @@ display: inline-block;
     box-sizing: border-box;
 	overflow: auto;
 }
-#profile {
+#content-heading {
     text-decoration:none;
     line-height:40px;
     font-size: 28px;
@@ -93,6 +93,20 @@ display: inline-block;
     padding:10px;
     width: 80px;
 }
+.img {
+    height: 300px;
+	width: 300px;
+	margin: 30px 30px 15px 0px;
+    float: left; 
+
+}
+.img span {
+    position:absolute;
+    top:10px;
+
+}
 /* Footer text: How to get it to stick to the bottom of the footer */
 /* How to get the paragraph to align with the image top */
 /* How to get the text boxes length to match the width */
+/* can we use same ID in different html files */
+/* how to get the borders inside the images */
