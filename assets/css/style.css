@@ -125,13 +125,13 @@ display: inline-block;
 }
 .image {
     margin: 0px 20px 20px 0;
-    max-width: 300px;
-    height: 250px;
+    max-width: 250px;
+    height: 220px;
     border: 2px solid teal;
 }
 
 .image-title {
-    width: 273px;
+    width: 225px;
     background-color: #4aaaa5;
     text-decoration:none;
     line-height:40px;

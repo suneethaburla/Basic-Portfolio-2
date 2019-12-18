@@ -21,13 +21,13 @@ SSH keys
 Refer to the screenshot index html.png for the code snippet from the index.html file
 * Index.html-
 Refer to the screenshot About-Me.png for the basic portfolio homepage.
-![alt About](images/Index-html.png)
+![alt About](assets/images/Index-html.png)
 * portfolio.html-
 Refer to the screenshot Portfolio.png for the portfolio page.
-![alt About](/images/Portfolio.png)
+![alt About](assets/images/Portfolio.png)
 * contact.html-
 Refer to the screenshot Contact.png for the contact page.
-![alt About](images/Contact-html.png)
+![alt About](assets/images/Contact-html.png)
 
 
 
