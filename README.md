@@ -19,16 +19,16 @@ SSH keys
 * There are three main files index.html, contact.html and portfolio.html and assets folder which contains css folder with style.css and reset.css files and an images folder with all the images used in the project
 * The homepage of this project is called index.html which has the code for the landing page for the basic portfolio website, which contains the information about the developer.
 Refer to the screenshot Index-html.png for the code snippet from the index.html file
-![alt About](assets/images/Index-html.png)
+![alt Index](assets/images/Index-html.png)
 * Index.html-
 Refer to the screenshot About-Me.png for the basic portfolio homepage.
 ![alt About](assets/images/About-html.png)
 * portfolio.html-
 Refer to the screenshot Portfolio.png for the portfolio page.
-![alt Contact](assets/images/Portfolio-html.png)
+![alt Portfolio](assets/images/Portfolio-html.png)
 * contact.html-
 Refer to the screenshot Contact.png for the contact page.
-![alt About](assets/images/Contact-html.png)
+![alt Contact](assets/images/Contact-html.png)
 
 
 
