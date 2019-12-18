@@ -127,11 +127,11 @@ display: inline-block;
     margin: 0px 20px 20px 0;
     max-width: 250px;
     height: 220px;
-    border: 2px solid teal;
+    border: 2px solid #4aaaa5;
 }
 
 .image-title {
-    width: 225px;
+    width: 222px;
     background-color: #4aaaa5;
     text-decoration:none;
     line-height:40px;
@@ -143,33 +143,14 @@ display: inline-block;
     text-decoration: none;
     text-align: center;
 }
-.image-1 {
+.portfolio {
     position:relative;
     float: left;
 }
-.image-title-1 {
+.title-position {
     position:absolute;
     bottom:40px;
 }
-.image-2 {
-    position:relative;
-    float: left;
-}
-.image-title-2 {
-    position:absolute;
-    bottom:40px;
-}
-
-.image-3 {
-    position:relative;
-    float: left;
-}
-.image-title-3 {
-    position:absolute;
-    bottom:40px;
-}
-
 
 /* can we use same ID in different html files */
-/* how to get the borders inside the images */
 /* How to update the old https://suneethaburla.github.io/ */
