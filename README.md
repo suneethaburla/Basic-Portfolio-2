@@ -18,16 +18,18 @@ SSH keys
 * Using terminal cd into the directory where the repo is cloned and type command "code ." to open the project in VS code to view the project files
 * There are three main files index.html, contact.html and portfolio.html and assets folder which contains css folder with style.css and reset.css files and an images folder with all the images used in the project
 * The homepage of this project is called index.html which has the code for the landing page for the basic portfolio website, which contains the information about the developer.
-Refer to the screenshot Index-html.png for the code snippet from the index.html file
+
+## Screenshots of code and the portfolio webpages
+Here is a screenshot of the code snippet from the index.html file
 ![alt Index](assets/images/Index-html.png)
 * Index.html-
-Refer to the screenshot About-Me.png for the basic portfolio homepage.
+Here is the screenshot of the basic portfolio homepage.
 ![alt About](assets/images/About-html.png)
-* portfolio.html-
-Refer to the screenshot Portfolio.png for the portfolio page.
+* Portfolio.html-
+Here is the screenshot of the Portfolio page.
 ![alt Portfolio](assets/images/Portfolio-html.png)
-* contact.html-
-Refer to the screenshot Contact.png for the contact page.
+* Contact.html-
+Here is the screenshot of the Contact page.
 ![alt Contact](assets/images/Contact-html.png)
 
 
