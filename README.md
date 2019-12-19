@@ -2,7 +2,7 @@
 This is Suneetha Burla's basic portfolio webpage.
 ## Project Title: Suneetha Burla's Basic Portfolio
 ## Project Description
-This project describes how to build a professional portfolio site using HTML and CSS. The end product of this project is a portfolio site which has links to direct users to basic information page about the developer, a portfolio page which contains the links to different project and repositories and a contact page for the users to fill in and submit their contact information.
+This project describes how to build a professional portfolio site using HTML and CSS. The end product of this project is a portfolio site which has links to direct users to basic information page about the developer, a portfolio page which contains the links to different projects and repositories and a contact page for the users to fill in and submit their contact information.
 ## Installation
 In order to install this project, follow the instructions below.
 * Prerequisites
